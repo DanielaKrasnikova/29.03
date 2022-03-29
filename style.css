@@ -1,0 +1,14 @@
+
+body {background-color: #4becd1;}
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 250%;
+}
+p {
+  color: #5900ff;
+  font-family: futura;
+  font-size: 160%;
+   border: 2px solid #000000;
+  padding: 30px;
+}
